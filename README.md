@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋🏼
+
+My name is Brandon Castillo. Thank you for visiting my page! 
 
 <!--
 **bcastillo32/bcastillo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
