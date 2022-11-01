@@ -3,7 +3,7 @@
 ### My name is Brandon Castillo. Thank you for visiting my page! 
 
 #### - 🗽 Based in New York City
-#### - 🐶 I'm currrently working on JetPet
+#### - 👨🏻‍💻 I'm currrently working on small practical projects to gain more experience
 #### - 🚐 Ask me about my cross-country drive from California
 #### - 📬 How to reach me: brancastillo32@gmail.com
 
