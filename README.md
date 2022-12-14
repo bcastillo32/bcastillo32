@@ -4,6 +4,7 @@
 
 #### - 🗽 Based in New York City
 #### - 👨🏻‍💻 I'm currrently working on small practical projects to gain more experience
+#### - 📚 Completing Harvard's cs50 course online to strengthen understanding of core Computer Science concepts
 #### - 🚐 Ask me about my cross-country drive from California
 #### - 📬 How to reach me: brancastillo32@gmail.com
 
