@@ -3,7 +3,7 @@
 ### My name is Brandon Castillo. Thank you for visiting my page! 
 
 #### - 🗽 Based in New York City
-#### - 👨🏻‍💻 I'm currrently working on small practical projects to gain more experience
+#### - 👨🏻‍💻 I'm currrently volunteering with Ruby for Good as a Product Manager and working on a project of my own to gain more experience
 #### - 📚 Completing Harvard's cs50 course online to strengthen understanding of core Computer Science concepts
 #### - 🚐 Ask me about my cross-country drive from California
 #### - 📬 How to reach me: brancastillo32@gmail.com
