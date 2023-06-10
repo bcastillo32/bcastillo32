@@ -23,11 +23,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-![original](https://user-images.githubusercontent.com/77401173/196597927-02f94890-b56b-45e4-bc88-047c42c4abc7.gif)
-
-
-
 <!--
 **bcastillo32/bcastillo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
