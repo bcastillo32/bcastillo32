@@ -4,7 +4,6 @@ My name is Brandon Castillo. Thank you for visiting my page!
 
 - 🗽 Based in New York City
 - 👨🏻‍💻 I'm currently volunteering with Ruby for Good as a Product Manager on the CASA team
-- 🐶 Actively working on [JetPet](https://www.loom.com/share/f69d85d2ccae44bfa92896b6c73b07d7?sid=aacf0446-adca-4b03-b050-ad8bc14dc669) - A marketplace that connects pet parents with pet service providers in their area
 - 🚐 Ask me about my cross-country drive from California
 - 📬 How to reach me: brancastillo32@gmail.com
 
