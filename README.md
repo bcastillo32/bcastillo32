@@ -3,7 +3,7 @@ Hello there! 👋🏼
 My name is Brandon Castillo. Thank you for visiting my page! 
 
 - 🗽 Based in New York City
-- 👨🏻‍💻 I'm currently volunteering with Ruby for Good as a Product Manager on the CASA team
+- 👨🏻‍💻 Product Manager at Ruby for Good
 - 🚐 Ask me about my cross-country drive from California
 - 📬 How to reach me: brancastillo32@gmail.com
 
